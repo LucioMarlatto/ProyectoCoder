@@ -1,0 +1,11 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/styles.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
